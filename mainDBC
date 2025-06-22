@@ -1,0 +1,68 @@
+{
+  "name": "dbc.Overchargedsaga.0.name",
+  "desc": "dbc.Overchargedsaga.0.desc",
+  "authors": "dbc.Overchargedsaga.0.authors",
+  "version": "1.0",
+  "mods": "DBC",
+  "settings": {
+    "repeat": "0",
+    "unlock": "",
+    "vars": ""
+  },
+  "missions": [
+    {
+      "id": 0,
+      "translated": true,
+      "props": [
+        "default"
+      ],
+      "align": [
+        "neutral"
+      ],
+      "title": [
+        "dbc.Overchargedsaga.0.title"
+      ],
+      "subtitle": [
+        "dbc.Overchargedsaga.0.subtitle"
+      ],
+      "description": [
+        "dbc.Overchargedsaga.0.description"
+      ],
+      "objectives": [
+        [
+          "next"
+        ]
+      ],
+      "rewards": [
+        [
+          "nothing;jinryuujrmcore.Next;1"
+        ]
+      ]
+    },
+    {
+      "id": 1000,
+      "translated": true,
+      "props": [
+        "default"
+      ],
+      "align": [
+        "neutral"
+      ],
+      "title": [
+        "dbc.sagasystem.credits"
+      ],
+      "subtitle": [
+        "dbc.sagasystem.106.title"
+      ],
+      "description": [
+        "dbc.sagasystem.106.desc"
+      ],
+      "objectives": [
+        null
+      ],
+      "rewards": [
+        null
+      ]
+    }
+  ]
+}
