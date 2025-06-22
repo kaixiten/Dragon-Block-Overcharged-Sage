@@ -40,6 +40,39 @@
       ]
     },
     {
+      "id": 1,
+      "translated": true,
+      "props": [
+        "default"
+      ],
+      "align": [
+        "neutral"
+      ],
+      "title": [
+        "dbc.Overchargedsaga.1.title"
+      ],
+      "subtitle": [
+        "dbc.Overchargedsaga.1.subtitle"
+      ],
+      "description": [
+        "dbc.Overchargedsaga.1.description"
+      ],
+      "objectives": [
+        [
+          "start",
+          "dim2;NOverworld",
+          "kill;Njinryuudragonblockc.BearThief;H150;A30"
+        ]
+      ],
+      "rewards": [
+        [
+          "tp!fix!100||align!+10;jinryuujrmcore.missionSys.Protect;2",
+          "tp!fix!100||align!0;jinryuujrmcore.missionSys.Myself;2",
+          "tp!fix!100||align!-10;jinryuujrmcore.missionSys.Evil;10001"
+        ]
+      ]
+    },
+    {
       "id": 1000,
       "translated": true,
       "props": [
