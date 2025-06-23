@@ -68,7 +68,39 @@
         [
           "tp!fix!100||align!+10;jinryuujrmcore.missionSys.Protect;2",
           "tp!fix!100||align!0;jinryuujrmcore.missionSys.Myself;2",
-          "tp!fix!100||align!-10;jinryuujrmcore.missionSys.Evil;10001"
+          "tp!fix!100||align!-10;jinryuujrmcore.missionSys.Evil;2"
+        ]
+      ]
+    },
+    {
+      "id": 2,
+      "translated": true,
+      "props": [
+        "default"
+      ],
+      "align": [
+        "neutral"
+      ],
+      "title": [
+        "dbc.Overchargedsaga.2.title"
+      ],
+      "subtitle": [
+        "bc.Overchargedsaga.2.subtitle"
+      ],
+      "description": [
+        "bc.Overchargedsaga.2.description"
+      ],
+      "objectives": [
+        [
+          "next",
+          "talk;Njinryuudragonblockc.roshi;Gdbc.sagasdb.1.1;Bdbc.sagasdb.1.d"
+        ]
+      ],
+      "rewards": [
+        [
+          "item!jinryuudragonblockc:KintounItem,1||tp!fix!15||align!+10;jinryuujrmcore.missionSys.Protect;3",
+          "item!jinryuudragonblockc:KintounItem,1||tp!fix!15||align!0;jinryuujrmcore.missionSys.Myself;3",
+          "item!jinryuudragonblockc:KintounBlackItem,1||tp!fix!15||align!-10;jinryuujrmcore.missionSys.Evil;3"
         ]
       ]
     },
